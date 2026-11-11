@@ -1,0 +1,7 @@
+# Publish only the site itself; tools, notes and archives stay local.
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/name-glyphs.js
+!/assets/
